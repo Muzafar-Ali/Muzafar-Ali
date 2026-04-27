@@ -36,27 +36,36 @@ I build **scalable backend systems, real-time applications, and microservices ar
 - PostgreSQL (Primary – relational systems)
 - MongoDB (NoSQL use cases)
 - Prisma ORM
+- Mongoose ODM
 
 ### 🐳 DevOps & Tools
 - Docker & Docker Compose
 - Prometheus & Grafana
 - Git & GitHub
 
+### Others
+Prisma • Zod 
+
 ---
 
 ## 🔥 Featured Project
 
-### 🚀 Microservice Social Media App
+### 🧩 Microservice Social Media Platform
 
-A **scalable backend system for a social media platform**, built using a **microservices architecture**.
+Distributed backend system implementing authentication, feeds, media processing, real-time messaging, and social graph relationships.
 
-#### ✨ Key Features:
-- 💬 Real-time chat system (Socket.IO)
-- 📝 Posts, likes, comments
-- 👥 Follow / Unfollow system
-- ⚡ Redis caching
-- 📡 Event-driven communication (Kafka)
-- 📊 Monitoring with Prometheus & Grafana
+**Architecture Highlights:**
+
+- Independent services (User, Post, Chat, Media, Social Graph)
+- API Gateway for centralized routing
+- Kafka-based event-driven communication
+- Redis-backed session sharing across HTTP and WebSocket layers
+- Real-time chat using Socket.IO with room-based messaging
+- Cursor-based feed pagination
+- PostgreSQL database per service (data isolation)
+
+**Tech Stack:**
+Node.js • TypeScript • Express • PostgreSQL • Prisma • Redis • Kafka • Socket.IO • Docker • Prometheus • Grafana
 
 👉 **View Project:**  
 🔗 https://github.com/Muzafar-Ali/Microservice-social-media-app
@@ -64,12 +73,16 @@ A **scalable backend system for a social media platform**, built using a **micro
 ---
 
 ## 📬 Let's Connect
+## 🤝 Connect
+
+- LinkedIn: (https://www.linkedin.com/in/muzafar-ali-1941a893/)
+- Email: (muzafar.ali.dev1@gmail.com)
 
 - 💼 Open to backend / full stack opportunities
 - 📧 Feel free to reach out for collaboration
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ 
 
-I enjoy solving complex backend problems and turning ideas into **scalable systems** 🚀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzafar-Ali&layout=compact&theme=tokyonight)

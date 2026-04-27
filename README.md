@@ -72,8 +72,11 @@ Node.js • TypeScript • Express • PostgreSQL • Prisma • Redis • Kafka
 
 ---
 
-## 📬 Let's Connect
-## 🤝 Connect
+## ⚡ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzafar-Ali&layout=compact&theme=tokyonight)
+
+## 🤝 Let's Connect
 
 - LinkedIn: (https://www.linkedin.com/in/muzafar-ali-1941a893/)
 - Email: (muzafar.ali.dev1@gmail.com)
@@ -83,6 +86,3 @@ Node.js • TypeScript • Express • PostgreSQL • Prisma • Redis • Kafka
 
 ---
 
-## ⚡ 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzafar-Ali&layout=compact&theme=tokyonight)

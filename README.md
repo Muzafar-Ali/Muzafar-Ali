@@ -2,49 +2,53 @@
 
 ### 🚀 Backend-focused Full Stack Developer
 
-I build **scalable backend systems, real-time applications, and microservices architectures** using modern JavaScript/TypeScript technologies.
+I design and build **scalable backend systems, real-time applications, and microservices architectures** using Node.js and TypeScript.
 
 ---
 
 ## 🧠 What I Do
 
-- ⚙️ Design and develop **scalable backend systems**
-- 🔌 Build **real-time applications using Socket.IO**
-- 🧱 Architect **microservices-based systems**
-- 🚀 Optimize performance with **Redis and caching strategies**
-- 📊 Work with both **relational (PostgreSQL)** and **NoSQL (MongoDB)** databases
+- Design and develop **scalable backend systems**
+- Build **event-driven backends** with Kafka  
+- Develop **real-time applications** using Socket.IO  
+- Implement **scalable APIs** with clean architecture principles  
+- Optimize performance using **Redis caching and session strategies**  
+- Work across **PostgreSQL (relational)** and **MongoDB (NoSQL)** systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-- Node.js
-- TypeScript
-- Express.js
+![Node.js](https://img.shields.io/badge/Node.js-20-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Express.js](https://img.shields.io/badge/Express.js-Framework-black)
 
 ### 🧠 Architecture & Systems
-- Microservices Architecture
-- REST APIs
-- Event-driven systems (Kafka)
+![Architecture](https://img.shields.io/badge/Architecture-Microservices-purple)
+![API](https://img.shields.io/badge/API-REST-orange)
+![Pattern](https://img.shields.io/badge/Pattern-Event--Driven-black)
 
 ### ⚡ Realtime & Performance
-- Socket.IO
-- Redis (Caching, Sessions)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-lightgrey)
+![Redis](https://img.shields.io/badge/Redis-Cache%20%7C%20Sessions-red)
 
 ### 🗄️ Database
-- PostgreSQL (Primary – relational systems)
-- MongoDB (NoSQL use cases)
-- Prisma ORM
-- Mongoose ODM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Primary-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM-red)
 
 ### 🐳 DevOps & Tools
-- Docker & Docker Compose
-- Prometheus & Grafana
-- Git & GitHub
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-Orchestration-blue)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black)
 
-### Others
-Prisma • Zod 
+### 🧩 Others
+![Zod](https://img.shields.io/badge/Zod-Validation-purple)
 
 ---
 

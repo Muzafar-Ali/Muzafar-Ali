@@ -42,6 +42,7 @@ I design and build **scalable backend systems, real-time applications, and micro
 ### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-Orchestration-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow)
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange)
@@ -49,6 +50,13 @@ I design and build **scalable backend systems, real-time applications, and micro
 
 ### 🧩 Others
 ![Zod](https://img.shields.io/badge/Zod-Validation-purple)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-FullStack-black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-Components-black)
+![Zustand](https://img.shields.io/badge/Zustand-StateManagement-brown)
 
 ---
 
